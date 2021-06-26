@@ -1,0 +1,28 @@
+A. Blood Bank Management Software
+
+	In this project, you’ll create a Windows-based blood bank management software. The software 
+must meet the following requirements:
+
+Register a new user.
+1.Store key data such as blood group, Rh factor (positive/negative), donor’s name, address, telephone
+  number.
+2.Retrieve above data through search.
+3.Find appropriate match for a particular blood group AND Rh factor type.
+4.Display amount of different blood types currently in storage.
+5.You can make this application much more complex by asking for the donor’s prior medical 
+  history and showing a positive match only if certain medical conditions are found to be absent,
+  sending a message to the donor if storage levels for his/her blood type are low, etc.
+
+B. HR Match Making Software
+
+In this app, we’ll create a version of Match.com, but for job seekers and employers. The key requirements
+are:
+
+Register a new user as an employer, or a job seeker.
+Create a new profile for the user. For the employee, this should include, but isn’t limited to, age, 
+contact data, education level, grades, prior work experience, etc. Employers, on the other hand, should 
+include their location, industry, current employee strength, vacancies, etc.
+Give employers the ability to post new job requirements.
+Match job seekers with new jobs that fit their requirements.
+As you can imagine, you can make this program much larger by including algorithms to show desirable
+candidates to employers, including a broader set of details, a Q&A section, certification tests, etc.

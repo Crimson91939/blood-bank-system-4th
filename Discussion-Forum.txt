@@ -1,0 +1,34 @@
+*Rules*
+1. Please type your name and leave the line and start your ideas from the other line.
+2. The file names for git upoad; make them words(if possible).
+
+
+Zorgo:
+From what I can see, it will be easier to create a Blood Bank Management System. Along with being very useful, it will
+have very less variables than HR Match Making System and thus, easier for us.
+
+Saajan:
+HR will be like web based so HR cannot be done according to me.
+
+
+Vivek:
+Well I thought the same. We can choose Blood bank as our project for now. By the way who will make the documentation for it?
+
+P.S. : Don't limit to these ideas. Feel free to present more. And the file names for git upoad; make them words(if possible).
+
+
+Zorgo:
+In my POV, this will be the easiest and also an effective project. Along with blood doner names and details, we can incorporate a system for other 
+hospitals to request blood and alert hospitals if required blood is available or not and such.
+
+
+Vivek: 
+Yeah that's the plan.
+
+
+Zorgo:
+So, everyone agrees on BloodBank Database??
+
+
+Vivek: 
+I guess do...

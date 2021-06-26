@@ -1,0 +1,13 @@
+Requirements
+
+1) Admin(blood bank) : Manage doners Id
+	 	     : Link with hospital's system
+		     : Stock left (date, blood type, Doner's Id)
+	             : History
+
+2) Hospital(clint) : Request for blood (blood type, date and paitent's condition)
+		   : History
+
+3) Doner : Fill application 
+	 : If ok get a date for donation
+	 : Get a Doner's Id for future donations
